@@ -24,7 +24,7 @@ requirements:
     - zlib
     - jpeg
     - libtiff
-    - libgdal
+    - libgdal {{ libgdal }}
     - proj4
     - libspatialite
 
